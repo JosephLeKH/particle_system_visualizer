@@ -55,6 +55,16 @@ The heart of this project lies in its **scene system**, which showcases particle
    - Small, random particles hover or drift slowly, mimicking sparks or magical glows.
    - Perfect for adding atmospheric effects to larger projects.
 
+## Screenshots
+### Volcano 
+![Volvano Scene](demoScreenshots/particles_volcano.png)
+
+### Fountain
+![Fountain Scene](demoScreenshots/particles_fountain.png)
+
+### Snowy Day
+![Snowy Day Scene](demoScreenshots/particles_snowy_day.png)
+
 #### Sample Visual Output
 
 | **Scene**           | **Description**                                                                 |
